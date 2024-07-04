@@ -1,0 +1,22 @@
+*{
+    margin: none;
+    padding: none;
+} 
+  
+ .div{
+    width: 300px;
+    height: 300px;
+    background:url(photo_2023-11-06_05-17-50.jpg);
+    border-radius: 8px;
+}
+.login{
+    color: aliceblue;
+    margin:110px;
+    margin-bottom: 20px;
+}
+.input{
+    margin:50px;
+    margin-bottom:20px;
+    height: 50px;
+    width: 30px;
+}
